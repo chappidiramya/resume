@@ -1,9 +1,8 @@
-
-h2 {
-  font-size: 30px;
-   color: Green;
-}
 p {
   color: red;
   text-align: center;
+}
+h2 {
+  font-size: 30px;
+   color: Green;
 }
